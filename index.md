@@ -3,3 +3,5 @@
 ```
 i am supposed to write some code over here
 ```
+- [ ] be normal
+- [x] goofy ahh black cat
